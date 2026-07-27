@@ -42,7 +42,7 @@ function UserProfile() {
     margin: '20px auto',
     padding: '24px',
     borderRadius: '12px',
-    boxShadow: '0 2px 10px rgba(0, 0, 0, 0.1)',
+    boxShadow: '0 2px 10px rgb(230, 10, 10)',
     backgroundColor: 'white',
     fontFamily: 'Arial, sans-serif',
     textAlign: 'center'
