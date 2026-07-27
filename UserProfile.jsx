@@ -4,7 +4,7 @@ export function ContactCard({ email, phone, location }) {
     margin: '10px auto',
     padding: '16px',
     borderRadius: '8px',
-    border: '1px solid #e1e5e9',
+    border: '1px solid #313131',
     backgroundColor: '#f8f9fa',
     fontFamily: 'Arial, sans-serif',
     fontSize: '14px',
